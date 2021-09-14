@@ -1,4 +1,4 @@
-# ejercicio-boottrap
+# ejercicio-bootstrap
 Para este ejercicio tenemos 3 tipos de pantalla "pequeña", "mediana" y "grande" por lo que se da una representacion igual en bootstrap usando las etiquetas "lg", "md" y "sm" para distinguir entre cada una dando como resultado lo siguiente:
 * Grande o lg:
 ![Grande](https://user-images.githubusercontent.com/31293665/133325963-36d13649-cf6e-4c41-9ce5-dc9d98ac2e12.png)
